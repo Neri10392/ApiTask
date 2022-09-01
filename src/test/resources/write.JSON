@@ -1,0 +1,22 @@
+{
+	"name": "Neriyarasan",
+	"email": "neriyrasan@gmail.com",
+	"phone": 9944847248,
+	"courses": [
+		{
+			"name": "mani",
+			"course": "java",
+			"address": "thanjai"
+		},
+		{
+			"name": "vj",
+			"course": "phyton",
+			"address": "periyakkotai"
+		},
+		{
+			"name": "neri",
+			"course": "c#",
+			"address": "thanjai"
+		}
+	]
+}
